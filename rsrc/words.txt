@@ -3497,7 +3497,6 @@ jubilee
 judge
 judgement
 judicial
-judicial
 jug
 juggle
 juice
@@ -3506,7 +3505,6 @@ july
 jumbo
 jump
 jumper
-junction
 junction
 june
 jungle
@@ -3853,7 +3851,6 @@ map
 marathon
 marble
 march
-march
 marching
 mare
 margarine
@@ -3895,7 +3892,6 @@ mattress
 mature
 maturity
 maximum
-may
 may
 maybe
 mayonnaise
@@ -5153,7 +5149,6 @@ relieve
 religion
 religious
 reluctance
-reluctance
 rely
 remain
 remaining
@@ -5985,7 +5980,6 @@ strangely
 stranger
 strangle
 strap
-strategic
 strategic
 strategy
 straw 
